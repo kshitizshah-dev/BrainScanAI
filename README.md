@@ -35,8 +35,3 @@ BrainScanAI is a full-stack application that allows users to upload MRI brain sc
 - djangorestframework-simplejwt
 - Pillow (for image handling)
 - CORS Headers
-
-### Note
-I have intentionally left out some of the images of user in backend so that. You can check, its input and output images of this app and model.
-
-This app is not finished yet. It can funtion really well but There are some features which are lacking.
