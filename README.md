@@ -25,7 +25,7 @@ BrainScanAI is a full-stack application that allows users to upload MRI brain sc
 - 🗃️ Media Storage and Display
 - 🔁 Token Management via Axios
 
-## 🛠️ Backend – Django
+## 🛠️ Backend – Django and DRF
 
 ###  Requirements
 
